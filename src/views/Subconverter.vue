@@ -487,14 +487,14 @@ export default {
               }
             ]
           },
-          {
+	{
             label: "Special",
             options: [
               {
                 label: "nzw9314 规则",
                 value:
-		"https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/nzw9314_custom.ini"
-	      },
+                  "https://gist.githubusercontent.com/tindy2013/1fa08640a9088ac8652dbd40c5d2715b/raw/nzw9314_custom.ini"
+              },
               {
                 label: "lhie1 洞主规则完整版",
                 value:
